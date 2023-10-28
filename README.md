@@ -12,8 +12,10 @@ proyectos y mis intereses.
 * Educación: Estudiante en la Escuela Superior Politécnica del Litoral (ESPOL).
 * Facultad: FIEC
 * Carrera: Computación
+  
 ## Proyectos
 * https://kevin523523.github.io/curriculum/
+  
 ## Intereses
 * Programación
 * Tecnología
