@@ -8,7 +8,13 @@ proyectos y mis intereses.
 ## Información personal
 * Nombre: Kevin Gianfranco Ibarra Prado
 * Ocupación: Estudiante
+* Educación: Estudiante en la Escuela Superior Politécnica del Litoral (ESPOL).
+* Facultad: FIEC
+* Carrera: Computación
 ## Proyectos
-* 
+* https://kevin523523.github.io/curriculum/
 ## Intereses
-* 
+* Programación
+* Tecnología
+* Desarrolo Web
+* Ciberseguridad
